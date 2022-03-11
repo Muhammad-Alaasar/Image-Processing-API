@@ -1,6 +1,6 @@
 # Image Processing API
 
-> > ### This a web tool that allows users to resizing Images.
+> ### This a web tool that allows users to resizing Images.
 
 ## Techologies
 
